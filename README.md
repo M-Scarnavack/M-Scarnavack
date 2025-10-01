@@ -4,7 +4,7 @@ My name is Michael Scarnavack I'm interested in all things Logistics Tech!
 
 - 🔭 I’m currently working on ... CS Grad School Applications, EDI mapping, and Software Development projects at WayFinder. 
 - 🌱 I’m currently learning ... Jiu Jitsu, Machine Learning, Raspberry Pi Tinkering
-- 📫 How to reach me: Mhscarn@gmail.com
+- 📫 How to reach me: mhscarn@gmail.com
 - ⚡ Fun fact: ... I survived the Pamplona Bull Run 🐂
 
 <!--

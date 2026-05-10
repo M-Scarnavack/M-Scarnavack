@@ -3,7 +3,7 @@
 My name is Michael Scarnavack, I'm interested in all things Logistics Tech
 
 - 🔭 I’m currently working on ... MSCS Grad School Applications, EDI, and Software Development projects at WayFinder. 
-- 🌱 I’m currently learning ... Brazlian Jiu-Jitsu, Machine Learning, Raspberry Pi Tinkering.
+- 🌱 I’m currently learning ... Brazilian Jiu-Jitsu, Machine Learning, Raspberry Pi Tinkering.
 - 📫 How to reach me: mhscarn@gmail.com
 - ⚡ Fun fact: ... I survived the Pamplona Bull Run 🐂
 

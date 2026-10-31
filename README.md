@@ -2,7 +2,7 @@
 
 My name is Mike Scarnavack, I'm interested in all things Logistics Tech
 
-- 🔭 I’m currently working on ... Building Custom Workflows @ Augment
+- 🔭 I’m currently working on ... Custom Workflows @ Augment
 - 🌱 I’m currently learning ... Brazilian Jiu-Jitsu
 - 📫 How to reach me: mhscarn@gmail.com
 - ⚡ Fun fact: ... I survived the Pamplona Bull Run 🐂

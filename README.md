@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Michael Scarnavack, I'm interested in all things Logistics Tech
+My name is Mike Scarnavack, I'm interested in all things Logistics Tech
 
 - 🔭 I’m currently working on ... Building Custom Workflows @ Augment
 - 🌱 I’m currently learning ... Brazilian Jiu-Jitsu
